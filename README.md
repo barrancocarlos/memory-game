@@ -2,7 +2,7 @@
 
 Simple Memory Game using Vanilla JavaScript
 
-![Alt Text](https://github.com/barrancocarlos/memory-game/blob/master/public/memory.jpg)
+![Alt Text](https://github.com/barrancocarlos/memory-game/blob/master/public/memory.png)
 
 ## Getting Started
 
