@@ -19,11 +19,8 @@ Make sure you have installed all of the following prerequisites on your developm
 ### Installing
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/barrancocarlos/express-api.js.git
-
-# Go into the repository
-$ cd express-api
+# Clone this repository or download zip
+$ git clone https://github.com/barrancocarlos/memory-game.js.git
 
 # Unzip and open index.html in your browser
 
