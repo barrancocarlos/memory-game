@@ -1,8 +1,8 @@
 # Memory Game
 
-![Alt Text](https://github.com/barrancocarlos/express-api/blob/master/public/node.jpg)
-
 Simple Memory Game using Vanilla JavaScript
+
+![Alt Text](https://github.com/barrancocarlos/memory-game/blob/master/public/memory.jpg)
 
 ## Getting Started
 
